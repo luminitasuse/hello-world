@@ -1,2 +1,7 @@
 # hello-world
-My fisr GitHub project
+My first GitHub project
+
+My name is Luminita and I work for IBM
+
+Thanks
+LS
